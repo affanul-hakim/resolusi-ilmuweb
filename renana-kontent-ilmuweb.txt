@@ -1,0 +1,8 @@
+Rencana kontent Ilmuweb.
+
+- Javascript
+ * ES6
+ * Framework Javascript
+- PHP Framework
+- Interview
+- Vlog
