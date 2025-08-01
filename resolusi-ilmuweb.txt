@@ -1,0 +1,3 @@
+Ilmuweb Resolusi
+- Konsisten membuat kontent di Yotube
+- Membuat aplikasi website berbasis codeigniter dan laravel
