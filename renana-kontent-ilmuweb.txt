@@ -3,6 +3,7 @@ Rencana kontent Ilmuweb.
 - Javascript
  * ES6
  * Framework Javascript
+- Fundametal Data Dasar
 - PHP Framework
 - Interview
 - Vlog
