@@ -1,3 +1,6 @@
 Ilmuweb Resolusi
 - Konsisten membuat kontent di Yotube
 - Membuat aplikasi website berbasis codeigniter dan laravel
+- Belajar CSS
+- Belajar Java sript
+- Kolaborasi dengan Youtuber lainya
